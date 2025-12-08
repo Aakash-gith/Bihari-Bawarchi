@@ -6,7 +6,7 @@
 
 A modern, responsive portfolio website for **Bihari Bawarchi** - showcasing authentic Bihari cuisine and viral recipes on Instagram.
 
-**Follow on Instagram:** [@bihari_bawarchi__](https://www.instagram.com/bihari_bawarchi__/)
+**Follow on Instagram:** [@bihari_bawarchi\_\_](https://www.instagram.com/bihari_bawarchi__/)
 
 ## 📱 Features
 
@@ -100,16 +100,21 @@ npm run preview
 ## 🎨 Customization
 
 ### Update Logo
+
 Replace the logo image at `public/logo.jpg` with your own image file.
 
 ### Update Posts
+
 Edit the `posts` array in `components/ViralPosts.tsx` to add or modify viral posts with your Instagram reel links.
 
 ### Update Colors
+
 The app uses Tailwind CSS with custom brand colors. Modify the color scheme in `tailwind.config.js` or update class names in components.
 
 ### Update Social Links
+
 Update Instagram links throughout the components:
+
 - Header: `components/Header.tsx`
 - Collab: `components/Collab.tsx`
 
@@ -123,7 +128,7 @@ All posts link directly to your Instagram reels:
 
 ## 📞 Contact & Collaboration
 
-- **Instagram:** [@bihari_bawarchi__](https://www.instagram.com/bihari_bawarchi__/)
+- **Instagram:** [@bihari_bawarchi\_\_](https://www.instagram.com/bihari_bawarchi__/)
 - **Email:** contact@biharibawarchi.com
 - **Location:** Bihar, India
 

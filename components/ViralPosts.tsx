@@ -6,23 +6,23 @@ const posts: Post[] = [
   {
     id: '1',
     title: 'छठ महापर्व - Kharna',
-    image: 'https://images.unsplash.com/photo-1606471191009-63994c53433b?w=800&auto=format&fit=crop',
+    image: '/Kharna.png',
     likes: '125K',
     description: 'Chhath Mahaparv Day 2 - The sacred Kharna ritual with authentic Bihari traditions.',
     videoUrl: 'https://www.instagram.com/bihari_bawarchi__/reel/DQMfdhfE-ou/'
   },
   {
     id: '2',
-    title: 'Tissi Ki Chatni',
-    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800&auto=format&fit=crop',
+    title: 'जाडा - Thari Ki Chatni',
+    image: '/Jada.png',
     likes: '98K',
-    description: 'कुछ खोए हुए स्वाद, कुछ भूली बिसरी याद - Lost flavors, forgotten memories.',
+    description: 'Winter special recipes of Bihar - Roasted seeds and traditional flavors.',
     videoUrl: 'https://www.instagram.com/bihari_bawarchi__/reel/DQvvPJKk4H5/'
   },
   {
     id: '3',
-    title: '🌸 Navratri Special: Khoichha 🌸',
-    image: 'https://images.unsplash.com/photo-1626509683526-17b52479633e?w=800&auto=format&fit=crop',
+    title: '🌸 खीड़छ्छा - Khoichcha 🌸',
+    image: '/khoichcha.png',
     likes: '85K',
     description: 'Traditional Khoichha recipe for Navratri celebrations - A divine offering.',
     videoUrl: 'https://www.instagram.com/bihari_bawarchi__/reel/DPIRF1BE_AE/'
