@@ -9,7 +9,7 @@ export const generateRecipe = async (ingredients: string): Promise<string> => {
   try {
     const model = 'gemini-2.5-flash';
     const prompt = `
-      You are "Bihari Bawarchi", a warm, rustic, and expert home chef specializing in authentic Bihari and Indian cuisine.
+      You are "biharihaiji_", a warm, rustic, and expert home chef specializing in authentic Bihari and Indian cuisine.
       
       The user has these ingredients or request: "${ingredients}".
       

@@ -16,13 +16,13 @@ export const Collab: React.FC = () => {
             </p>
             
             <div className="flex flex-col gap-4">
-              <a href="mailto:contact@biharibawarchi.com" className="flex items-center gap-3 text-gray-800 hover:text-brand-600 transition-colors group">
+              <a href="mailto:contact@biharihaiji_.com" className="flex items-center gap-3 text-gray-800 hover:text-brand-600 transition-colors group">
                 <div className="w-12 h-12 rounded-full bg-stone-100 flex items-center justify-center group-hover:bg-brand-100 transition-colors">
                   <Mail size={20} />
                 </div>
                 <span className="font-medium text-lg">Send me an email</span>
               </a>
-              <a href="https://www.instagram.com/bihari_bawarchi__/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-800 hover:text-brand-600 transition-colors group">
+              <a href="https://www.instagram.com/biharihaiji_/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-800 hover:text-brand-600 transition-colors group">
                 <div className="w-12 h-12 rounded-full bg-stone-100 flex items-center justify-center group-hover:bg-brand-100 transition-colors">
                   <Instagram size={20} />
                 </div>
@@ -56,7 +56,7 @@ export const Collab: React.FC = () => {
              </div>
 
              <a 
-               href="https://www.instagram.com/bihari_bawarchi__/" 
+               href="https://www.instagram.com/biharihaiji_/"
                target="_blank" 
                rel="noopener noreferrer"
                className="mt-8 w-full bg-white text-brand-600 py-3 rounded-lg font-bold flex items-center justify-center gap-2 hover:bg-stone-100 transition-colors"
@@ -67,7 +67,7 @@ export const Collab: React.FC = () => {
         </div>
 
         <div className="mt-20 pt-8 border-t border-stone-200 flex flex-col md:flex-row justify-between items-center gap-4 text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} Bihari Bawarchi. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} biharihaiji_. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-brand-600">Privacy Policy</a>
             <a href="#" className="hover:text-brand-600">Terms of Use</a>

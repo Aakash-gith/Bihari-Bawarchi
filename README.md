@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="Bihari Bawarchi" src="https://images.unsplash.com/photo-1606471191009-63994c53433b?w=1200&auto=format&fit=crop" />
+<img width="1200" height="475" alt="biharihaiji_" src="https://images.unsplash.com/photo-1606471191009-63994c53433b?w=1200&auto=format&fit=crop" />
 </div>
 
-# Bihari Bawarchi 🥘
+# biharihaiji_ 🥘
 
-A modern, responsive portfolio website for **Bihari Bawarchi** - showcasing authentic Bihari cuisine and viral recipes on Instagram.
+A modern, responsive portfolio website for **biharihaiji_** - showcasing authentic Bihari cuisine and viral recipes on Instagram.
 
-**Follow on Instagram:** [@bihari_bawarchi\_\_](https://www.instagram.com/bihari_bawarchi__/)
+**Follow on Instagram:** [@biharihaiji_](https://www.instagram.com/biharihaiji_/)
 
 ## 📱 Features
 
@@ -40,8 +40,8 @@ A modern, responsive portfolio website for **Bihari Bawarchi** - showcasing auth
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Aakash-gith/Bihari-Bawarchi.git
-cd Bihari-Bawarchi
+git clone https://github.com/Aakash-gith/biharihaiji_.git
+cd biharihaiji_
 ```
 
 ### 2. Install Dependencies
@@ -90,7 +90,7 @@ npm run preview
 ├── services/            # API services
 │   └── geminiService.ts # AI integration
 ├── public/              # Static assets
-│   └── logo.jpg        # Bihari Bawarchi logo
+│   └── logo.jpg        # biharihaiji_ logo
 ├── App.tsx             # Main app component
 ├── index.tsx           # Entry point
 ├── types.ts            # TypeScript interfaces
@@ -122,14 +122,14 @@ Update Instagram links throughout the components:
 
 All posts link directly to your Instagram reels:
 
-1. **Post 1** - [छठ महापर्व - Kharna](https://www.instagram.com/bihari_bawarchi__/reel/DQMfdhfE-ou/)
-2. **Post 2** - [Tissi Ki Chatni](https://www.instagram.com/bihari_bawarchi__/reel/DQvvPJKk4H5/)
-3. **Post 3** - [🌸 Navratri Special: Khoichha 🌸](https://www.instagram.com/bihari_bawarchi__/reel/DPIRF1BE_AE/)
+1. **Post 1** - [छठ महापर्व - Kharna](https://www.instagram.com/biharihaiji_/reel/DQMfdhfE-ou/)
+2. **Post 2** - [Tissi Ki Chatni](https://www.instagram.com/biharihaiji_/reel/DQvvPJKk4H5/)
+3. **Post 3** - [🌸 Navratri Special: Khoichha 🌸](https://www.instagram.com/biharihaiji_/reel/DPIRF1BE_AE/)
 
 ## 📞 Contact & Collaboration
 
-- **Instagram:** [@bihari_bawarchi\_\_](https://www.instagram.com/bihari_bawarchi__/)
-- **Email:** contact@biharibawarchi.com
+- **Instagram:** [@biharihaiji_](https://www.instagram.com/biharihaiji_/)
+- **Email:** contact@biharihaiji_.com
 - **Location:** Bihar, India
 
 ## 📈 Stats
@@ -155,9 +155,9 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Links
 
-- **Live Site:** https://bihari-bawarchi.vercel.app (deploy when ready)
-- **GitHub Repository:** https://github.com/Aakash-gith/Bihari-Bawarchi
-- **Instagram Profile:** https://www.instagram.com/bihari_bawarchi__/
+- **Live Site:** https://biharihaiji_.vercel.app (deploy when ready)
+- **GitHub Repository:** https://github.com/Aakash-gith/biharihaiji_
+- **Instagram Profile:** https://www.instagram.com/biharihaiji_/
 
 ---
 

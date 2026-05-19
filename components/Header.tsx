@@ -28,11 +28,11 @@ export const Header: React.FC = () => {
         <div className="flex items-center gap-3">
            <img 
              src="/logo.jpg" 
-             alt="Bihari Bawarchi Logo" 
+             alt="biharihaiji_ Logo"
              className="w-12 h-12 rounded-full object-cover shadow-lg"
            />
            <span className={`text-xl font-serif font-bold ${isScrolled ? 'text-gray-900' : 'text-gray-900 md:text-white'}`}>
-             Bihari Bawarchi
+             biharihaiji_
            </span>
         </div>
 
@@ -50,7 +50,7 @@ export const Header: React.FC = () => {
             </a>
           ))}
           <a 
-            href="https://www.instagram.com/bihari_bawarchi__/" 
+            href="https://www.instagram.com/biharihaiji_/"
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-brand-600 hover:bg-brand-700 text-white px-5 py-2 rounded-full text-sm font-medium transition-transform transform hover:scale-105 flex items-center gap-2"
@@ -83,7 +83,7 @@ export const Header: React.FC = () => {
             </a>
           ))}
           <a 
-            href="https://www.instagram.com/bihari_bawarchi__/" 
+            href="https://www.instagram.com/biharihaiji_/"
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-brand-600 text-white py-3 rounded-lg text-center font-medium"
