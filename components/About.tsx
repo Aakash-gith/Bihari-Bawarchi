@@ -27,10 +27,10 @@ export const About: React.FC = () => {
         <div>
           <h2 className="text-brand-600 font-bold uppercase tracking-wider text-sm mb-3">About The Page</h2>
           <h3 className="text-4xl md:text-5xl font-serif font-bold text-gray-900 mb-6">
-            Bihari Bawarchi
+            biharihaiji_
           </h3>
           <p className="text-gray-600 text-lg leading-relaxed mb-6">
-            Welcome to my digital kitchen! I am the creator behind <strong>Bihari Bawarchi</strong>, a page dedicated to preserving and popularizing the rich, authentic culinary heritage of Bihar and beyond.
+            Welcome to my digital kitchen! I am the creator behind <strong>biharihaiji_</strong>, a page dedicated to preserving and popularizing the rich, authentic culinary heritage of Bihar and beyond.
           </p>
           <p className="text-gray-600 text-lg leading-relaxed mb-8">
             What started as a simple hobby of documenting my grandmother's recipes has turned into a viral sensation. My mission is simple: to show the world that traditional food is not just about sustenance, it's about stories, culture, and love.

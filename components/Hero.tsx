@@ -23,13 +23,13 @@ export const Hero: React.FC = () => {
         </div>
         
         <h1 className="text-5xl md:text-7xl font-serif font-bold text-white mb-6 leading-tight drop-shadow-lg">
-          Bihari Bawarchi
+          biharihaiji_
         </h1>
         
         <div className="max-w-2xl mx-auto bg-black/30 backdrop-blur-md p-6 md:p-8 rounded-2xl border border-white/10 mb-8">
             <h2 className="text-brand-400 font-bold uppercase tracking-wider text-sm mb-3">About Me</h2>
             <p className="text-lg md:text-xl text-gray-100 leading-relaxed font-light">
-              Namaste! I am the creator behind <span className="text-brand-400 font-semibold">Bihari Bawarchi</span>. 
+              Namaste! I am the creator behind <span className="text-brand-400 font-semibold">biharihaiji_</span>.
               My journey started with a simple love for the rustic, smoky flavors of Bihar and authentic Indian cuisine. 
               Today, I share my viral recipes and culinary adventures with thousands of food lovers on Instagram.
             </p>
